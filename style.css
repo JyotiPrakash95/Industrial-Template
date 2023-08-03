@@ -148,7 +148,7 @@ nav .fa {
 
 /* banner */
 .banner {
-    background-image: linear-gradient(rgba(13, 32, 59, 0.7), rgba(13, 32, 59, 0.7)), url(../images/banner-img.webp);
+    background-image: linear-gradient(rgba(13, 32, 59, 0.7), rgba(13, 32, 59, 0.7)), url(./images/banner-img.webp);
     background-attachment: fixed;
     width: 100%;
     min-height: 600px;
@@ -323,19 +323,19 @@ h2 {
 }
 
 .project-col-img-1 {
-    background-image: url(../images/p-col1.jpg);
+    background-image: url(./images/p-col1.jpg);
 }
 
 .project-col-img-2 {
-    background-image: url(../images/p-col-2.jpg);
+    background-image: url(./images/p-col-2.jpg);
 }
 
 .project-col-img-3 {
-    background-image: url(../images/p-col-3.jpg);
+    background-image: url(./images/p-col-3.jpg);
 }
 
 .project-col-img-4 {
-    background-image: url(../images/p-col-4.jpg);
+    background-image: url(./images/p-col-4.jpg);
 }
 
 .project-col-img-1,
@@ -392,7 +392,7 @@ h2 {
 /* testimonials */
 .testimonials {
     background-attachment: fixed;
-    background-image: linear-gradient(rgba(44, 44, 44, 0.95), rgba(44, 44, 44, 0.95)), url(../images/testi-bg-img);
+    background-image: linear-gradient(rgba(44, 44, 44, 0.95), rgba(44, 44, 44, 0.95)), url(./images/testi-bg-img);
     width: 100%;
     background-position: center;
     background-size: cover;
@@ -508,7 +508,7 @@ h2 {
 
 /* contact */
 .contact {
-    background-image: linear-gradient(rgba(1, 9, 17, 0.90), rgba(1, 9, 17, 0.90)), url(../images/contact-bg.jpg);
+    background-image: linear-gradient(rgba(1, 9, 17, 0.90), rgba(1, 9, 17, 0.90)), url(./images/contact-bg.jpg);
     width: 100%;
     background-position: center;
     background-size: cover;
