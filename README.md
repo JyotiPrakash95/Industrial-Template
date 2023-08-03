@@ -1,6 +1,4 @@
 # Industrial Template
-
-![Website Preview]()
 ![image](https://github.com/JyotiPrakash95/Industrial-Template/assets/119428321/43871362-e95c-4f5c-ae75-2e155fdd54bb)
 
 
